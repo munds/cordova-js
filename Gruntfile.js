@@ -32,7 +32,9 @@ module.exports = function(grunt) {
             "firefoxos": {},
             "webos": {},
             "ubuntu": {},
-            "browser": {}
+            "browser": {},
+            "sectv-orsay": {},
+            "sectv-tizen": {}
         },
         "compile-browserify": {
             "amazon-fireos": {},
